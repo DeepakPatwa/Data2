@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact name="LoginUsingMvc.war">
+    <output-path>$PROJECT_DIR$/out/artifacts/LoginUsingMvc_war</output-path>
+    <root id="root" />
+  </artifact>
+</component>
